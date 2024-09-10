@@ -39,6 +39,10 @@ public class Locators3 {
 				System.out.println(driver.findElement(By.xpath("//header/div/button[1]/parent::div/button[2]")).getText());
 				
 				
+				System.out.println("Architect1 app1");
+				System.out.println("Architect1 app2");
+				System.out.println("Architect1 app3");
+				
 	}
 
 }
