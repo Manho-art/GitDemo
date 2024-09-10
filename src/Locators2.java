@@ -67,6 +67,8 @@ public class Locators2 {
 				
 				//or //*[text()='Log Out'] 
 		
+		System.out.println("Architect2 app1");
+		
 	}
 	
 	//creating a method to take password text from reset login page and use that to enter password in login page
@@ -90,4 +92,6 @@ public class Locators2 {
 		};
 	
 
+		
+		
 }
