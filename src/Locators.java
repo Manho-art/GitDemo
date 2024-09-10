@@ -36,6 +36,7 @@ public class Locators {
 		// <button class="submit signInBtn" type="submit">Sign In</button>
 		// class has 2 values as the values are separated by space, so we can use any one value
 		driver.findElement(By.className("signInBtn")).click();
+		System.out.println("git clone");
 		
 		//CSS selector
 		//if we have <input type="text" placeholder="Username" id="inputUsername" value="">
