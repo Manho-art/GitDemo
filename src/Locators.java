@@ -38,6 +38,8 @@ public class Locators {
 		driver.findElement(By.className("signInBtn")).click();
 		System.out.println("git clone");
 		
+		System.out.println("X changes 1");
+		System.out.println("X changes 2");
 		//CSS selector
 		//if we have <input type="text" placeholder="Username" id="inputUsername" value="">
 		//<button class="submit signInBtn" type="submit">Sign In</button>

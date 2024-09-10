@@ -36,7 +36,8 @@ public class Locators2 {
 		driver.findElement(By.name("inputPassword")).sendKeys(password);
 				
 		driver.findElement(By.className("signInBtn")).click();
-		
+		System.out.println("X changes 3");
+		System.out.println("X changes 4");
 		//it might take 1 sec to load the page
 		Thread.sleep(1000);
 		
